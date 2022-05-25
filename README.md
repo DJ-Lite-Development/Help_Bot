@@ -33,10 +33,5 @@ In the discord developer portal in the "bot" panel you will find 3 switches unde
 To work the best, the bot needs `ADMINISTRATOR` permissions.
 You can also configure your own permissions
 
-## v1.4.0 announcement
-Hello everyone, soon open-ticket v1.4.0 will be launched, it contains a lot of new features. You can view them below.
-[click here to view the announcement](https://github.com/DJj123dj/open-ticket/discussions/3)
-
-
 
 © 2022 - DJ-Lite Development | [discord](https://discord.gg/95ZTu4AJ9n)
